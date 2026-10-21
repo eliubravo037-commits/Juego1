@@ -1,0 +1,20 @@
+{
+  "name": "Sentinel of the Stars",
+  "short_name": "Sentinel",
+  "description": "Juego de combate espacial 2D con 20 niveles, jefes, mejoras y logros.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "lang": "es",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
